@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ianmaloney_14" target="blank"><img src="https://img.shields.io/twitter/follow/ianmaloney_14?logo=twitter&style=for-the-badge" alt="ianmaloney_14" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 💬 Ask me about **Blockchain, Cryptography**
 
